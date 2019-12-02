@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Viewing the project.
 WORK IN PROGRESS. TO VIEW, CLONE OR DOWNLOAD AND RUN "ng serve--open". then you will see something like this.
-![alt text](http://ACMETOOLS/gtstore.png)
+[gmarx tools store](https://github.com/Gnwin/ACMETOOLS/gtstore.png)
 
 ## Development server
 
