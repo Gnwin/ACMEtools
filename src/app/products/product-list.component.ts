@@ -2,7 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'pm-products',
-  templateUrl: './product-list.component.html'
+  templateUrl: './product-list.component.html',
+  styleUrls: ['./product-list.component.css']
 })
 
 export class ProductListComponent {
@@ -20,7 +21,7 @@ export class ProductListComponent {
       "description": "15 gallon capacity rolling garden",
       "price": 32.99,
       "starRating": 4.2,
-      "imageURL": "https://openclipart.org/image/300px/svg"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_hyvT9qz6Z_tjAom7fDfJqFeiSQDBSH45pR6cYK34XAz_Xms&s"
     },
     {
       "productId" : 5,
@@ -30,7 +31,7 @@ export class ProductListComponent {
       "description": "Curved claw steel hammer",
       "price": 8.9,
       "starRating": 4.8,
-      "imageURL": "https://openclipart.org/image/300px/svg"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmxVCilqzM3_Ho4hx_BJ4-wlqKmXSfsIOyL2Qy-iOqNPZX-VN&s"
     }
   ];
 

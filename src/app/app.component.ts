@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'pm-root',
   template: `
-  <div><h1>{{pageTitle}}</h1>
+  <div><h1 class = "container">{{pageTitle}}</h1>
   <pm-products></pm-products>
 </div>
 `
@@ -11,5 +11,5 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-  pageTitle: string = 'Acme Product Management';
+  pageTitle: string = 'gmarx tools store';
 }
