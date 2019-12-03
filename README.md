@@ -5,8 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Viewing the project.
 WORK IN PROGRESS. TO VIEW, CLONE OR DOWNLOAD AND RUN "ng serve--open". then you will see something like this.
 
-<img src="https://github.com/Gnwin/ACMEtools/src/assets/gtstore.png" alt="toolstore"
-	title="gmarx tool store" width="200" height="" />
+![toolsstore](https://raw.githubusercontent.com/Gnwin/ACMEtools/master/src/assets/gtstore.png)
+
 
 
 ## Development server
